@@ -25,3 +25,19 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+1) Create a new project via ng new my-project --strict false (the --strict false part is important!)
+
+2) Copy the content of the ZIP attachment src/app folder into the newly created project src/app folder.
+
+3) Run your project (my-project) via ng serve
+
+If you try to directly run my ZIP attachments, you must run npm install first.
+
+If you're getting errors when running npm install, you can often solve them by running 'npm install --legacy-peer-deps' instead of npm install
+
+1. ng new ng-app --no-strict --standalone false --routing false
+2. ng version
+3. ng serve
+4. 
