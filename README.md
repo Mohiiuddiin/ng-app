@@ -41,3 +41,7 @@ If you're getting errors when running npm install, you can often solve them by r
 2. ng version
 3. ng serve
 4. 
+
+
+
+For Html Shortcut : Emmet
